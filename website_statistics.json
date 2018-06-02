@@ -1,0 +1,17 @@
+{
+  "lang": {
+    "name": "Italian",
+    "code": "it"
+  },
+  "stats": {
+    "translated_percent": "0.0",
+    "num_translated_strings": "0",
+    "num_strings": "0"
+  },
+  "project": {
+    "project_name": "Weblate Test",
+    "project_slug": "weblate-test",
+    "component_name": "Website",
+    "component_slug": "website"
+  }
+}
